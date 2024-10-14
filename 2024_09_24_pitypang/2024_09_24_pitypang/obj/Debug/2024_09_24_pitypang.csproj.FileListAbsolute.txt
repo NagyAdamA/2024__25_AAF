@@ -1,0 +1,7 @@
+H:\Asztali alkalmazások fejlesztése\12\2024_09_24_pitypang\2024_09_24_pitypang\bin\Debug\2024_09_24_pitypang.exe.config
+H:\Asztali alkalmazások fejlesztése\12\2024_09_24_pitypang\2024_09_24_pitypang\bin\Debug\2024_09_24_pitypang.exe
+H:\Asztali alkalmazások fejlesztése\12\2024_09_24_pitypang\2024_09_24_pitypang\bin\Debug\2024_09_24_pitypang.pdb
+H:\Asztali alkalmazások fejlesztése\12\2024_09_24_pitypang\2024_09_24_pitypang\obj\Debug\2024_09_24_pitypang.csproj.AssemblyReference.cache
+H:\Asztali alkalmazások fejlesztése\12\2024_09_24_pitypang\2024_09_24_pitypang\obj\Debug\2024_09_24_pitypang.csproj.CoreCompileInputs.cache
+H:\Asztali alkalmazások fejlesztése\12\2024_09_24_pitypang\2024_09_24_pitypang\obj\Debug\2024_09_24_pitypang.exe
+H:\Asztali alkalmazások fejlesztése\12\2024_09_24_pitypang\2024_09_24_pitypang\obj\Debug\2024_09_24_pitypang.pdb

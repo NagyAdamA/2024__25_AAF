@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2024_09_17_struktura", "2024_09_17_struktura\2024_09_17_struktura.csproj", "{D64433B4-4150-469F-8E94-011B24E766B6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D64433B4-4150-469F-8E94-011B24E766B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D64433B4-4150-469F-8E94-011B24E766B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D64433B4-4150-469F-8E94-011B24E766B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D64433B4-4150-469F-8E94-011B24E766B6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E90B0373-7945-4D93-B251-3E3BA1E0210A}
+	EndGlobalSection
+EndGlobal

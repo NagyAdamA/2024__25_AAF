@@ -1,0 +1,7 @@
+H:\Asztali alkalmazások fejlesztése\2024_09_11_ismetles_matrix\2024_09_11_ismetles_matrix\bin\Debug\2024_09_11_ismetles_matrix.exe.config
+H:\Asztali alkalmazások fejlesztése\2024_09_11_ismetles_matrix\2024_09_11_ismetles_matrix\bin\Debug\2024_09_11_ismetles_matrix.exe
+H:\Asztali alkalmazások fejlesztése\2024_09_11_ismetles_matrix\2024_09_11_ismetles_matrix\bin\Debug\2024_09_11_ismetles_matrix.pdb
+H:\Asztali alkalmazások fejlesztése\2024_09_11_ismetles_matrix\2024_09_11_ismetles_matrix\obj\Debug\2024_09_11_ismetles_matrix.csproj.AssemblyReference.cache
+H:\Asztali alkalmazások fejlesztése\2024_09_11_ismetles_matrix\2024_09_11_ismetles_matrix\obj\Debug\2024_09_11_ismetles_matrix.csproj.CoreCompileInputs.cache
+H:\Asztali alkalmazások fejlesztése\2024_09_11_ismetles_matrix\2024_09_11_ismetles_matrix\obj\Debug\2024_09_11_ismetles_matrix.exe
+H:\Asztali alkalmazások fejlesztése\2024_09_11_ismetles_matrix\2024_09_11_ismetles_matrix\obj\Debug\2024_09_11_ismetles_matrix.pdb

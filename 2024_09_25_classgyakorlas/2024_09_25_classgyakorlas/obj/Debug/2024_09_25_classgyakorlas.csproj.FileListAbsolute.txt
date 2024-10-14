@@ -1,0 +1,7 @@
+H:\Asztali alkalmazások fejlesztése\12\2024_09_25_classgyakorlas\2024_09_25_classgyakorlas\bin\Debug\2024_09_25_classgyakorlas.exe.config
+H:\Asztali alkalmazások fejlesztése\12\2024_09_25_classgyakorlas\2024_09_25_classgyakorlas\bin\Debug\2024_09_25_classgyakorlas.exe
+H:\Asztali alkalmazások fejlesztése\12\2024_09_25_classgyakorlas\2024_09_25_classgyakorlas\bin\Debug\2024_09_25_classgyakorlas.pdb
+H:\Asztali alkalmazások fejlesztése\12\2024_09_25_classgyakorlas\2024_09_25_classgyakorlas\obj\Debug\2024_09_25_classgyakorlas.csproj.AssemblyReference.cache
+H:\Asztali alkalmazások fejlesztése\12\2024_09_25_classgyakorlas\2024_09_25_classgyakorlas\obj\Debug\2024_09_25_classgyakorlas.csproj.CoreCompileInputs.cache
+H:\Asztali alkalmazások fejlesztése\12\2024_09_25_classgyakorlas\2024_09_25_classgyakorlas\obj\Debug\2024_09_25_classgyakorlas.exe
+H:\Asztali alkalmazások fejlesztése\12\2024_09_25_classgyakorlas\2024_09_25_classgyakorlas\obj\Debug\2024_09_25_classgyakorlas.pdb

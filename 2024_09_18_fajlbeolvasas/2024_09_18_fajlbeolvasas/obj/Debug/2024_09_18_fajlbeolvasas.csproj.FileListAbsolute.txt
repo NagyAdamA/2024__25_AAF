@@ -1,0 +1,7 @@
+H:\Asztali alkalmazások fejlesztése\12\2024_09_18_fajlbeolvasas\2024_09_18_fajlbeolvasas\bin\Debug\2024_09_18_fajlbeolvasas.exe.config
+H:\Asztali alkalmazások fejlesztése\12\2024_09_18_fajlbeolvasas\2024_09_18_fajlbeolvasas\bin\Debug\2024_09_18_fajlbeolvasas.exe
+H:\Asztali alkalmazások fejlesztése\12\2024_09_18_fajlbeolvasas\2024_09_18_fajlbeolvasas\bin\Debug\2024_09_18_fajlbeolvasas.pdb
+H:\Asztali alkalmazások fejlesztése\12\2024_09_18_fajlbeolvasas\2024_09_18_fajlbeolvasas\obj\Debug\2024_09_18_fajlbeolvasas.csproj.AssemblyReference.cache
+H:\Asztali alkalmazások fejlesztése\12\2024_09_18_fajlbeolvasas\2024_09_18_fajlbeolvasas\obj\Debug\2024_09_18_fajlbeolvasas.csproj.CoreCompileInputs.cache
+H:\Asztali alkalmazások fejlesztése\12\2024_09_18_fajlbeolvasas\2024_09_18_fajlbeolvasas\obj\Debug\2024_09_18_fajlbeolvasas.exe
+H:\Asztali alkalmazások fejlesztése\12\2024_09_18_fajlbeolvasas\2024_09_18_fajlbeolvasas\obj\Debug\2024_09_18_fajlbeolvasas.pdb

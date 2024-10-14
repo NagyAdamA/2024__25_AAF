@@ -1,0 +1,7 @@
+H:\Asztali alkalmazások fejlesztése\12\2024_09_25_structvsclass\2024_09_25_structvsclass\bin\Debug\2024_09_25_structvsclass.exe.config
+H:\Asztali alkalmazások fejlesztése\12\2024_09_25_structvsclass\2024_09_25_structvsclass\bin\Debug\2024_09_25_structvsclass.exe
+H:\Asztali alkalmazások fejlesztése\12\2024_09_25_structvsclass\2024_09_25_structvsclass\bin\Debug\2024_09_25_structvsclass.pdb
+H:\Asztali alkalmazások fejlesztése\12\2024_09_25_structvsclass\2024_09_25_structvsclass\obj\Debug\2024_09_25_structvsclass.csproj.AssemblyReference.cache
+H:\Asztali alkalmazások fejlesztése\12\2024_09_25_structvsclass\2024_09_25_structvsclass\obj\Debug\2024_09_25_structvsclass.csproj.CoreCompileInputs.cache
+H:\Asztali alkalmazások fejlesztése\12\2024_09_25_structvsclass\2024_09_25_structvsclass\obj\Debug\2024_09_25_structvsclass.exe
+H:\Asztali alkalmazások fejlesztése\12\2024_09_25_structvsclass\2024_09_25_structvsclass\obj\Debug\2024_09_25_structvsclass.pdb

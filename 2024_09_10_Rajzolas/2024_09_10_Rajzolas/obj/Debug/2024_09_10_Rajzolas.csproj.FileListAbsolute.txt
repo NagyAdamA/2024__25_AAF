@@ -1,0 +1,7 @@
+H:\Asztali alkalmazások fejlesztése\2024_09_10_Rajzolas\2024_09_10_Rajzolas\bin\Debug\2024_09_10_Rajzolas.exe.config
+H:\Asztali alkalmazások fejlesztése\2024_09_10_Rajzolas\2024_09_10_Rajzolas\bin\Debug\2024_09_10_Rajzolas.exe
+H:\Asztali alkalmazások fejlesztése\2024_09_10_Rajzolas\2024_09_10_Rajzolas\bin\Debug\2024_09_10_Rajzolas.pdb
+H:\Asztali alkalmazások fejlesztése\2024_09_10_Rajzolas\2024_09_10_Rajzolas\obj\Debug\2024_09_10_Rajzolas.csproj.AssemblyReference.cache
+H:\Asztali alkalmazások fejlesztése\2024_09_10_Rajzolas\2024_09_10_Rajzolas\obj\Debug\2024_09_10_Rajzolas.csproj.CoreCompileInputs.cache
+H:\Asztali alkalmazások fejlesztése\2024_09_10_Rajzolas\2024_09_10_Rajzolas\obj\Debug\2024_09_10_Rajzolas.exe
+H:\Asztali alkalmazások fejlesztése\2024_09_10_Rajzolas\2024_09_10_Rajzolas\obj\Debug\2024_09_10_Rajzolas.pdb

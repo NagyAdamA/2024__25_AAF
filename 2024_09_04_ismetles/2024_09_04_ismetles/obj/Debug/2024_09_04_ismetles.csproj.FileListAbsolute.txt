@@ -1,0 +1,7 @@
+H:\Asztali alkalmazások fejlesztése\2024_09_04_ismetles\2024_09_04_ismetles\bin\Debug\2024_09_04_ismetles.exe.config
+H:\Asztali alkalmazások fejlesztése\2024_09_04_ismetles\2024_09_04_ismetles\bin\Debug\2024_09_04_ismetles.exe
+H:\Asztali alkalmazások fejlesztése\2024_09_04_ismetles\2024_09_04_ismetles\bin\Debug\2024_09_04_ismetles.pdb
+H:\Asztali alkalmazások fejlesztése\2024_09_04_ismetles\2024_09_04_ismetles\obj\Debug\2024_09_04_ismetles.csproj.AssemblyReference.cache
+H:\Asztali alkalmazások fejlesztése\2024_09_04_ismetles\2024_09_04_ismetles\obj\Debug\2024_09_04_ismetles.csproj.CoreCompileInputs.cache
+H:\Asztali alkalmazások fejlesztése\2024_09_04_ismetles\2024_09_04_ismetles\obj\Debug\2024_09_04_ismetles.exe
+H:\Asztali alkalmazások fejlesztése\2024_09_04_ismetles\2024_09_04_ismetles\obj\Debug\2024_09_04_ismetles.pdb
